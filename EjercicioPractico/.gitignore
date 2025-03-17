@@ -1,0 +1,32 @@
+# Archivos temporales y de usuario
+*.user
+*.suo
+*.userprefs
+
+# Carpetas generadas por compilación
+[Bb]in/
+[Oo]bj/
+
+# Archivos de paquetes NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Archivos de publicación
+[Pp]ublish/
+
+# Archivos de prueba
+[TestR]*
+
+# Archivos de Visual Studio
+.vs/
+*.vspscc
+*.vssscc
+
+# Archivos de IIS Express
+/.vscode/
+/iisexpress.*
+
+# Logs y otros archivos temporales
+*.log
+*.tmp
